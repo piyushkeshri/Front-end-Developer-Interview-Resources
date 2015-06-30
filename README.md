@@ -89,3 +89,24 @@ localStorage vs sessionStorage vs session & cookie - <a href="http://stackoverfl
 <p dir="ltr">setInterval vs. setTimeout - <a href="http://stackoverflow.com/questions/729921/settimeout-or-setinterval">link</a></p>
 <p>&nbsp;Javascript Polyfills - <a href="https://github.com/inexorabletash/polyfill">link</a></p>
 <p>&nbsp;</p>
+
+<p dir="ltr"><strong>AngularJS</strong></p>
+<p dir="ltr"><span>Info - </span><a href="http://www.w3schools.com/angular/angular_examples.asp"><span>link</span></a></p>
+<p dir="ltr"><span>Service vs. Provider vs. Factory - </span><a href="http://stackoverflow.com/questions/15666048/service-vs-provider-vs-factory"><span>link</span></a><span>, </span><a href="http://stackoverflow.com/questions/13762228/confused-about-service-vs-factory/13763886#13763886"><span>link</span></a><span>, </span><a href="http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/"><span>link</span></a></p>
+<ul>
+<li dir="ltr">
+<p dir="ltr"><span>example - </span><a href="http://jsbin.com/ohamub/1/edit?html,js,output"><span>link</span></a><span>, </span><a href="http://jsfiddle.net/pkozlowski_opensource/PxdSP/14/"><span>link</span></a></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Service - Returns the actual function</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Factory - Returns the function&rsquo;s return value</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Provider - Returns the output of function&rsquo;s $get function</span></p>
+</li>
+</ul>
+<p dir="ltr"><span>Basic Overview - </span><a href="http://www.slideshare.net/sbegaudeau/angular-js-101-everything-you-need-to-know-to-get-started?related=1"><span>link</span></a></p>
+<p dir="ltr"><span>Appropriate usage of all components - </span><span><a href="http://demisx.github.io/angularjs/2014/09/14/angular-what-goes-where.html">link</a></span></p>
+<p>&nbsp;</p>
