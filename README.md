@@ -110,3 +110,114 @@ localStorage vs sessionStorage vs session & cookie - <a href="http://stackoverfl
 <p dir="ltr"><span>Basic Overview - </span><a href="http://www.slideshare.net/sbegaudeau/angular-js-101-everything-you-need-to-know-to-get-started?related=1"><span>link</span></a></p>
 <p dir="ltr"><span>Appropriate usage of all components - </span><span><a href="http://demisx.github.io/angularjs/2014/09/14/angular-what-goes-where.html">link</a></span></p>
 <p>&nbsp;</p>
+
+<h1 dir="ltr"><span>CSS</span></h1>
+<p dir="ltr"><span>10 Questions for UX Designer (</span><a href="http://www.business.com/content/download/?id=54591c11c9786b0dad8b460b&amp;fdl=0"><span>link</span></a><span>)</span></p>
+<p dir="ltr"><span><span>&nbsp;</span></span></p>
+<p dir="ltr"><span>18 blogs for UX Pro (</span><a href="http://www.usertesting.com/blog/2014/08/26/the-18-blogs-every-ux-pro-should-follow/"><span>link</span></a><span>)</span></p>
+<p dir="ltr"><span><span>&nbsp;</span></span></p>
+<p dir="ltr"><span>What is the design process?</span></p>
+<p dir="ltr"><span>Web Design Process (</span><a href="http://www.smashingmagazine.com/2011/06/22/following-a-web-design-process/"><span>link</span></a><span>)</span></p>
+<p dir="ltr"><span><span>&nbsp;</span></span></p>
+<p dir="ltr"><span>CSS Positioning Tutorial in 10 steps - </span><a href="http://www.barelyfitz.com/screencast/html-training/css/positioning/"><span>link</span></a></p>
+<p dir="ltr"><span>Difference b/w fixed vs absolute positioning - </span><a href="https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/"><span>link</span></a></p>
+<p dir="ltr"><span>CSS Transitions - </span><a href="http://blog.alexmaccaw.com/css-transitions"><span>link</span></a></p>
+<h1 dir="ltr"><strong>Web Accessibility Design Techniques (<a href="http://www.lighthouse.org/accessibility/design/web/">link</a>, <a href="http://www.w3.org/WAI/intro/people-use-web/principles">link</a>)</strong></h1>
+<p dir="ltr"><span>How CSS works</span><span>:</span></p>
+<p><span><span><span>&nbsp;</span></span></span></p>
+<p dir="ltr"><span>CSS selectors spec - </span><a href="http://www.w3.org/TR/css3-selectors/#selectors"><span>link</span></a></p>
+<p dir="ltr">&nbsp;</p>
+<p dir="ltr"><span>How CSS decides precedence (</span><a href="http://www.vanseodesign.com/css/css-specificity-inheritance-cascaade/"><span>link</span></a><span>)</span></p>
+<p><span><span><span>&nbsp;</span></span></span></p>
+<ol>
+<li dir="ltr">
+<p dir="ltr"><span>Specificity</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Inheritance</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Cascade</span></p>
+</li>
+</ol>
+<ul>
+<li dir="ltr">
+<p dir="ltr"><span>Element, Pseudo Element: d = 1 &ndash; (0,0,0,1)</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Class, Pseudo class, Attribute: c = 1 &ndash; (0,0,1,0)</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Id: b = 1 &ndash; (0,1,0,0)</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Inline Style: a = 1 &ndash; (1,0,0,0)</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>!important overrules all specificity</span></p>
+</li>
+</ul>
+<p dir="ltr"><span>Specificity Calculator (</span><a href="http://specificity.keegan.st/"><span>link</span></a><span>)</span></p>
+<p><span><span><span>&nbsp;</span></span></span></p>
+<p dir="ltr"><span>Child &amp; Sibling Selectors</span><span> (</span><a href="https://css-tricks.com/child-and-sibling-selectors/"><span>link</span></a><span>)</span></p>
+<ul>
+<li dir="ltr">
+<p dir="ltr"><span>ul li - General Desendants</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>ul &gt; li - Immediate child</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>p + p - Immediate siblings</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>p ~ p - General siblings</span></p>
+</li>
+</ul>
+<p><span><span><span>&nbsp;</span></span></span></p>
+<h1 dir="ltr"><span>Put Div in center of the page (</span><a href="http://www.corelangs.com/css/box/center-div.html"><span>link</span></a><span>)</span></h1>
+<p dir="ltr"><span>MIT vs GNL License (</span><a href="http://stackoverflow.com/questions/805387/what-do-licenses-mean-gpl-mit-cc-etc"><span>link</span></a><span>)</span></p>
+<p><span>&nbsp;</span></p>
+<p dir="ltr"><span>Why we need CSS preprocessor - </span><a href="https://www.urbaninsight.com/2012/04/12/ten-reasons-you-should-be-using-css-preprocessor"><span>link</span></a></p>
+<p dir="ltr"><span>SASS tutorial</span></p>
+<ul>
+<li dir="ltr">
+<p dir="ltr"><a href="http://sass-lang.com/guide"><span>link1</span></a></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><a href="https://scotch.io/tutorials/getting-started-with-sass"><span>link2</span></a></p>
+</li>
+</ul>
+<p><span><span><span>&nbsp;</span></span></span></p>
+<p dir="ltr"><span>CSS3</span></p>
+<ul>
+<li dir="ltr">
+<p dir="ltr"><span>Media Query</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Animation</span></p>
+</li>
+</ul>
+<p><span><span><span>&nbsp;</span></span></span></p>
+<h1 dir="ltr"><span>block vs inline vs block-inline - </span><a href="http://stackoverflow.com/questions/9189810/css-display-inline-vs-inline-block"><span>link</span></a></h1>
+<h1 dir="ltr"><span>How to clear Floats &amp; clearfix class - </span><a href="http://www.sitepoint.com/clearing-floats-overview-different-clearfix-methods/"><span>link</span></a><span>, </span><a href="https://css-tricks.com/all-about-floats/"><span>link</span></a></h1>
+<h1 dir="ltr"><span>White-space issue with block-inline elements - </span><a href="https://css-tricks.com/fighting-the-space-between-inline-block-elements/"><span>link</span></a></h1>
+<ul>
+<li dir="ltr">
+<p dir="ltr"><span>Use negative right margin</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Use 0 font-size</span></p>
+</li>
+</ul>
+<p><span><span>&nbsp;</span></span></p>
+<h1 dir="ltr"><span>@font-face - </span><a href="https://css-tricks.com/snippets/css/using-font-face/"><span>link</span></a></h1>
+<h1 dir="ltr"><span>IE hasLayout Property &amp; IE inconsistencies - </span><a href="http://www.sitepoint.com/web-foundations/internet-explorer-haslayout-property/"><span>link</span></a></h1>
+<h1 dir="ltr"><span>Conditional CSS load for IE - </span><a href="https://css-tricks.com/how-to-create-an-ie-only-stylesheet/"><span>link</span></a></h1>
+<h1 dir="ltr"><span>Quirk Mode vs. Full Standard Mode vs. Almost standard Mode - </span><a href="https://developer.mozilla.org/en-US/docs/Quirks_Mode_and_Standards_Mode"><span>link</span></a></h1>
+<p><span><span>&nbsp;</span></span></p>
+<p dir="ltr"><span>CSS Transitions - </span><a href="http://www.w3schools.com/css/css3_transitions.asp"><span>link</span></a></p>
+<p dir="ltr"><span>CSS Animation - </span><a href="http://www.w3schools.com/css/css3_animations.asp"><span>link</span></a></p>
+<p dir="ltr"><span>Cursor CSS - </span><a href="http://www.w3schools.com/cssref/pr_class_cursor.asp"><span>link</span></a></p>
+<p dir="ltr"><span>Animate.css - </span><span><a href="https://daneden.github.io/animate.css/">link</a></span></p>
+<p>&nbsp;</p>
