@@ -122,7 +122,7 @@ localStorage vs sessionStorage vs session & cookie - <a href="http://stackoverfl
 <p dir="ltr"><span>CSS Positioning Tutorial in 10 steps - </span><a href="http://www.barelyfitz.com/screencast/html-training/css/positioning/"><span>link</span></a></p>
 <p dir="ltr"><span>Difference b/w fixed vs absolute positioning - </span><a href="https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/"><span>link</span></a></p>
 <p dir="ltr"><span>CSS Transitions - </span><a href="http://blog.alexmaccaw.com/css-transitions"><span>link</span></a></p>
-<h1 dir="ltr"><strong>Web Accessibility Design Techniques (<a href="http://www.lighthouse.org/accessibility/design/web/">link</a>, <a href="http://www.w3.org/WAI/intro/people-use-web/principles">link</a>)</strong></h1>
+<p dir="ltr"><strong>Web Accessibility Design Techniques (<a href="http://www.lighthouse.org/accessibility/design/web/">link</a>, <a href="http://www.w3.org/WAI/intro/people-use-web/principles">link</a>)</strong></p>
 <p dir="ltr"><span>How CSS works</span><span>:</span></p>
 <p><span><span><span>&nbsp;</span></span></span></p>
 <p dir="ltr"><span>CSS selectors spec - </span><a href="http://www.w3.org/TR/css3-selectors/#selectors"><span>link</span></a></p>
@@ -175,7 +175,7 @@ localStorage vs sessionStorage vs session & cookie - <a href="http://stackoverfl
 </li>
 </ul>
 <p><span><span><span>&nbsp;</span></span></span></p>
-<h1 dir="ltr"><span>Put Div in center of the page (</span><a href="http://www.corelangs.com/css/box/center-div.html"><span>link</span></a><span>)</span></h1>
+<p dir="ltr"><span>Put Div in center of the page (</span><a href="http://www.corelangs.com/css/box/center-div.html"><span>link</span></a><span>)</span></p>
 <p dir="ltr"><span>MIT vs GNL License (</span><a href="http://stackoverflow.com/questions/805387/what-do-licenses-mean-gpl-mit-cc-etc"><span>link</span></a><span>)</span></p>
 <p><span>&nbsp;</span></p>
 <p dir="ltr"><span>Why we need CSS preprocessor - </span><a href="https://www.urbaninsight.com/2012/04/12/ten-reasons-you-should-be-using-css-preprocessor"><span>link</span></a></p>
@@ -199,9 +199,9 @@ localStorage vs sessionStorage vs session & cookie - <a href="http://stackoverfl
 </li>
 </ul>
 <p><span><span><span>&nbsp;</span></span></span></p>
-<h1 dir="ltr"><span>block vs inline vs block-inline - </span><a href="http://stackoverflow.com/questions/9189810/css-display-inline-vs-inline-block"><span>link</span></a></h1>
-<h1 dir="ltr"><span>How to clear Floats &amp; clearfix class - </span><a href="http://www.sitepoint.com/clearing-floats-overview-different-clearfix-methods/"><span>link</span></a><span>, </span><a href="https://css-tricks.com/all-about-floats/"><span>link</span></a></h1>
-<h1 dir="ltr"><span>White-space issue with block-inline elements - </span><a href="https://css-tricks.com/fighting-the-space-between-inline-block-elements/"><span>link</span></a></h1>
+<p dir="ltr"><span>block vs inline vs block-inline - </span><a href="http://stackoverflow.com/questions/9189810/css-display-inline-vs-inline-block"><span>link</span></a></p>
+<p dir="ltr"><span>How to clear Floats &amp; clearfix class - </span><a href="http://www.sitepoint.com/clearing-floats-overview-different-clearfix-methods/"><span>link</span></a><span>, </span><a href="https://css-tricks.com/all-about-floats/"><span>link</span></a></p>
+<p dir="ltr"><span>White-space issue with block-inline elements - </span><a href="https://css-tricks.com/fighting-the-space-between-inline-block-elements/"><span>link</span></a></p>
 <ul>
 <li dir="ltr">
 <p dir="ltr"><span>Use negative right margin</span></p>
@@ -211,10 +211,10 @@ localStorage vs sessionStorage vs session & cookie - <a href="http://stackoverfl
 </li>
 </ul>
 <p><span><span>&nbsp;</span></span></p>
-<h1 dir="ltr"><span>@font-face - </span><a href="https://css-tricks.com/snippets/css/using-font-face/"><span>link</span></a></h1>
-<h1 dir="ltr"><span>IE hasLayout Property &amp; IE inconsistencies - </span><a href="http://www.sitepoint.com/web-foundations/internet-explorer-haslayout-property/"><span>link</span></a></h1>
-<h1 dir="ltr"><span>Conditional CSS load for IE - </span><a href="https://css-tricks.com/how-to-create-an-ie-only-stylesheet/"><span>link</span></a></h1>
-<h1 dir="ltr"><span>Quirk Mode vs. Full Standard Mode vs. Almost standard Mode - </span><a href="https://developer.mozilla.org/en-US/docs/Quirks_Mode_and_Standards_Mode"><span>link</span></a></h1>
+<p dir="ltr"><span>@font-face - </span><a href="https://css-tricks.com/snippets/css/using-font-face/"><span>link</span></a></p>
+<p dir="ltr"><span>IE hasLayout Property &amp; IE inconsistencies - </span><a href="http://www.sitepoint.com/web-foundations/internet-explorer-haslayout-property/"><span>link</span></a></p>
+<p dir="ltr"><span>Conditional CSS load for IE - </span><a href="https://css-tricks.com/how-to-create-an-ie-only-stylesheet/"><span>link</span></a></p>
+<p dir="ltr"><span>Quirk Mode vs. Full Standard Mode vs. Almost standard Mode - </span><a href="https://developer.mozilla.org/en-US/docs/Quirks_Mode_and_Standards_Mode"><span>link</span></a></p>
 <p><span><span>&nbsp;</span></span></p>
 <p dir="ltr"><span>CSS Transitions - </span><a href="http://www.w3schools.com/css/css3_transitions.asp"><span>link</span></a></p>
 <p dir="ltr"><span>CSS Animation - </span><a href="http://www.w3schools.com/css/css3_animations.asp"><span>link</span></a></p>
